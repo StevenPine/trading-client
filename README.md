@@ -1,7 +1,7 @@
 trading-client
 ==============
 
-A trading client for [a bitcoin futures exchange](https://www.icbit.se).
+A trading client for [a bitcoin futures exchange](https://icbit.se).
 
 Trading algorithms can be implemented by subclassing **icbitClient.coffee** and overriding its methods.
 
